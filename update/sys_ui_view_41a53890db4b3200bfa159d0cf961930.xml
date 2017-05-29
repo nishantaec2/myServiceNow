@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-26 07:43:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>41a53890db4b3200bfa159d0cf961930</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>User</sys_name>
